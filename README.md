@@ -1,5 +1,5 @@
 # restaurant-search
- Sistema de web de Pesquisa de usuario:
+ Sistema de web de Pesquisa de Restaurantes:
 
 Tecnologias Utilizadas:
 
